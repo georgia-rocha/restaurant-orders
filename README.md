@@ -1,5 +1,6 @@
-# Boas vindas !
- # O que foi desenvolvido
+# Boas-vindas ao Projeto Restaurant Orders! 🚀
+
+ ## O que foi desenvolvido
 
 Esta ferramenta foi desenvolvida para um Restaurante, com o objetivo de facilitar a criação de cardápios levando em consideração restrições alimentares e disponibilidade de ingredientes em estoque.
 
@@ -18,7 +19,7 @@ Esta ferramenta foi desenvolvida para um Restaurante, com o objetivo de facilita
 - Testes de software para garantir a qualidade do código.
 - Aplicação de conceitos de orientação a objetos.
 
-<details><summary> Para Clonar e Testar a Aplicação</summary>
+<details><summary><strong>Para Clonar e Testar a Aplicação</strong></summary>
 <br>
 
 1. Para clonar a aplicação:
